@@ -1,0 +1,5 @@
+{
+  "name": "React Expense Tracker",
+  "description": "A modern, responsive web application to track income and expenses. Features include adding, editing, and deleting transactions, filtering, and a visual dashboard with charts.",
+  "requestFramePermissions": []
+}
